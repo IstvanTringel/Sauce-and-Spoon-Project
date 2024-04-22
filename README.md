@@ -1,1 +1,1 @@
-# Sauce-and-Spoon-Project
+My capstone project for the Google Project Management course involved leading a project for Sauce & Spoon, a small restaurant chain looking to drive growth and expansion. As project manager, I oversaw the implementation of tabletop menu tablets to increase efficiency and gather data for strategic decision-making.
